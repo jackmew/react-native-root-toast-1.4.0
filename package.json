@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "prop-types": "^15.5.10",
-    "react-native-root-siblings": "^1.3.0"
+    "react-native-root-siblings": "git@github.com:jackmew/react-native-root-siblings-1.3.0.git"
   },
   "description": "react native toast like component, pure javascript solution",
   "devDependencies": {},
